@@ -1,6 +1,9 @@
-﻿using System;
-
-class Program
+﻿
+namespace SecondApp
 {
+    public class Program
+    {
     
+    }    
 }
+
