@@ -1,0 +1,15 @@
+/mnt/data2/github/C_Sharp_Learning/FirstApp/FirstApp/bin/Debug/net8.0/FirstApp
+/mnt/data2/github/C_Sharp_Learning/FirstApp/FirstApp/bin/Debug/net8.0/FirstApp.deps.json
+/mnt/data2/github/C_Sharp_Learning/FirstApp/FirstApp/bin/Debug/net8.0/FirstApp.runtimeconfig.json
+/mnt/data2/github/C_Sharp_Learning/FirstApp/FirstApp/bin/Debug/net8.0/FirstApp.dll
+/mnt/data2/github/C_Sharp_Learning/FirstApp/FirstApp/bin/Debug/net8.0/FirstApp.pdb
+/mnt/data2/github/C_Sharp_Learning/FirstApp/FirstApp/obj/Debug/net8.0/FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/data2/github/C_Sharp_Learning/FirstApp/FirstApp/obj/Debug/net8.0/FirstApp.AssemblyInfoInputs.cache
+/mnt/data2/github/C_Sharp_Learning/FirstApp/FirstApp/obj/Debug/net8.0/FirstApp.AssemblyInfo.cs
+/mnt/data2/github/C_Sharp_Learning/FirstApp/FirstApp/obj/Debug/net8.0/FirstApp.csproj.CoreCompileInputs.cache
+/mnt/data2/github/C_Sharp_Learning/FirstApp/FirstApp/obj/Debug/net8.0/FirstApp.sourcelink.json
+/mnt/data2/github/C_Sharp_Learning/FirstApp/FirstApp/obj/Debug/net8.0/FirstApp.dll
+/mnt/data2/github/C_Sharp_Learning/FirstApp/FirstApp/obj/Debug/net8.0/refint/FirstApp.dll
+/mnt/data2/github/C_Sharp_Learning/FirstApp/FirstApp/obj/Debug/net8.0/FirstApp.pdb
+/mnt/data2/github/C_Sharp_Learning/FirstApp/FirstApp/obj/Debug/net8.0/FirstApp.genruntimeconfig.cache
+/mnt/data2/github/C_Sharp_Learning/FirstApp/FirstApp/obj/Debug/net8.0/ref/FirstApp.dll
