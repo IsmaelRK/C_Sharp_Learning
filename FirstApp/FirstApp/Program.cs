@@ -21,7 +21,7 @@ namespace FirstApp
 
             double result = CalculateAverageFromList(userEntriesList);
             Console.WriteLine("Average = " + result);
-
+            GoodbyeMessage.SayGoodbye();
         }
 
 
