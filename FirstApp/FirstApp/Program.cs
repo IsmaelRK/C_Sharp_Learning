@@ -18,9 +18,28 @@ namespace SomeCalculator
                 double userEntries = Convert.ToDouble(Console.ReadLine());
                 userEntriesList.Add(userEntries);
             }
-            
-            
-            
+
+            double result = CalculateAverageFromList(userEntriesList);
+            Console.WriteLine("Average = " + result);
+
+        }
+
+
+        static double CalculateAverageFromList(List<double> userEntriesList)
+        {
+
+            if (userEntriesList.Count == 0) { throw new ArgumentException("No Entries Detected!"); }
+
+            double entriesSum = 0;
+            foreach (double numberFromList in userEntriesList)
+            {
+                entriesSum += numberFromList;
+            }
+
+            double avarage = entriesSum / userEntriesList.Count;
+
+            return avarage;
+
         }
 
     }
