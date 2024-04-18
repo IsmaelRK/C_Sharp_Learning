@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SomeCalculator
+namespace FirstApp
 {
 
     class Program 
@@ -36,9 +36,9 @@ namespace SomeCalculator
                 entriesSum += numberFromList;
             }
 
-            double avarage = entriesSum / userEntriesList.Count;
+            double average = entriesSum / userEntriesList.Count;
 
-            return avarage;
+            return average;
 
         }
 
