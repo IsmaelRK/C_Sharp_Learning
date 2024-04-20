@@ -22,6 +22,14 @@ public class HomeController : Controller
     public IActionResult Calculate(double number1, double number2)
     {
         // Continue HERE
-        double result = num  
+        double result = number1 + number2;
+
+        _context.Numbers.Add(new Numbers { Number1 = number1, Number2 = number2 });
+        _context.SaveChanges();
+
+
+        ViewData["Result"] = result;
+        return View("Result");
+
     }
 }
